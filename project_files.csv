@@ -1,0 +1,6 @@
+File,Lines,Purpose,Required For
+recipe_agent_app.py,430,Main application logic and UI,All platforms
+buildozer.spec,70,Android build configuration,Android only
+requirements.txt,3,Python package dependencies,All platforms
+README.md,350,Complete documentation,Documentation
+QUICKSTART.md,80,Quick reference guide,Documentation
