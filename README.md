@@ -215,6 +215,8 @@ From previous version:
 
 ## 📝 Future Plans
 
+- [ ] Healthy ratings for proper nutrition 
+- [ ] Daily Recipes depending on mood and cravings
 - [ ] Add more languages (French, Spanish, Italian)
 - [ ] Add recipe images/thumbnails
 - [ ] Implement favorites/bookmarks
